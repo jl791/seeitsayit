@@ -3,4 +3,4 @@ new_function = function(){
 
 };
 
-//some new stuff
+//some new stuff should be ignored
